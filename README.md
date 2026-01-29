@@ -1,3 +1,5 @@
+LEGAL
+
 Data Deletion & Account Management
 App name: Brass Tacks 12 Steps
 Brass Tacks 12 Steps gives users full control over their data directly within the app.
